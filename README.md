@@ -77,6 +77,6 @@ You can run the following test in your SWI-Prolog environment to verify the func
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me @*georgeelswef@gmail.com*
+If you have any questions or suggestions, feel free to reach out to me @*georgeelswefy@gmail.com*
 
 Enjoy exploring the world of logical programming and backtracking with this demonstrative project! **Happy coding! 🚀**
